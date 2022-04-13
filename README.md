@@ -4,14 +4,15 @@
 
 ```javascript
 const PIYoung = {
+  currentlyWorkingOn: null,
+  currentlyLearning: ["AI", "YOLO", "CG", "3D", Tensorflow, Pytorch, ThreeJS, ...],
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux],
     backEnd: [NestJS, Express],
     devOps: [AWS],
     database: [MySQL, MongoDB, IndexedDB]
-  },
-  currentFocus: ["AI", "YOLO", "CG", "3D", Tensorflow, Pytorch, ThreeJS, ...]
+  }
 };
 ```
 
@@ -31,21 +32,6 @@ const PIYoung = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💻 Baekjoon
+## 💻 Baekjoon Tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15)](https://solved.ac/dlsdudg15)
-
-<!--
-**PIYoung/PIYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
