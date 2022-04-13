@@ -4,7 +4,7 @@
 
 ```javascript
 const PIYoung = {
-  code: [Typescript, Javascript, Python, HTML5, CSS3],
+  code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux],
     backEnd: [NestJS, Express],
