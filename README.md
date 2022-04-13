@@ -5,7 +5,7 @@
 ```javascript
 const PIYoung = {
   currentlyWorkingOn: null,
-  currentlyLearning: ["AI", "YOLO", "CG", "3D", Tensorflow, Pytorch, ThreeJS, ...],
+  currentlyLearning: ["AI", "YOLO", "CG", "3D", Tensorflow, Pytorch, ThreeJS, ...etc],
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux],
