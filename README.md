@@ -17,8 +17,8 @@ const PIYoung = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=PIYoung&theme=apprentice&show_icons=true&hide=issues" alt="PIYoung's github stats" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PIYoung&theme=apprentice&show_icons=true" alt="PIYoung's github stats" />
   <img width="340" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" /></a>
 </p>
 
