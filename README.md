@@ -11,7 +11,7 @@ const PIYoung = {
     frontEnd: [ReactJS, Redux],
     backEnd: [NestJS, Express],
     devOps: [AWS],
-    database: [MySQL, MongoDB, IndexedDB]
+    database: [MySQL, Redis, IndexedDB, MongoDB]
   }
 };
 ```
