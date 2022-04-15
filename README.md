@@ -30,7 +30,7 @@ const PIYoung = {
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Baekjoon Tier
 
