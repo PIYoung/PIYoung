@@ -23,7 +23,7 @@ const PIYoung = {
     <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=PIYoung&theme=apprentice&show_icons=true&hide=issues" alt="PIYoung's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="340" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" /></a>
+    <img width="330" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" /></a>
   </a>
 </p>
 
