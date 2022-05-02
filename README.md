@@ -22,6 +22,7 @@ const PIYoung = {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=PIYoung&theme=apprentice&show_icons=true&hide=issues" alt="PIYoung's github stats" />
   </a>
+  &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="330" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" /></a>
   </a>
@@ -38,6 +39,7 @@ const PIYoung = {
   <a href="https://solved.ac/dlsdudg15">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
   </a>
+  &nbsp;
   <a href="https://solved.ac/dlsdudg15">
     <img align="center" src="http://mazandi.herokuapp.com/api?handle=dlsdudg15&theme=dark" alt="PIYoung's baekjoon stat" />
   </a>
