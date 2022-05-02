@@ -34,4 +34,11 @@ const PIYoung = {
 
 ## 💻 Baekjoon Tier
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15)](https://solved.ac/dlsdudg15)
+<p>
+  <a href="https://solved.ac/dlsdudg15">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
+  </a>
+  <a href="https://solved.ac/dlsdudg15">
+    <img align="center" src="http://mazandi.herokuapp.com/api?handle=dlsdudg15&theme=dark" alt="PIYoung's baekjoon stat" />
+  </a>
+</p>
