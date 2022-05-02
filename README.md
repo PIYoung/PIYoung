@@ -32,7 +32,7 @@ const PIYoung = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💻 Baekjoon
+## 💻 Baekjoon Algorithm
 
 <p>
   <a href="https://solved.ac/dlsdudg15">
