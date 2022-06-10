@@ -32,15 +32,15 @@ const PIYoung = {
   </p>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
     </a>
   </p>
 </div>
 
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 💻 Baekjoon Algorithm
 
