@@ -21,7 +21,7 @@ const PIYoung = {
 ## 📊 GitHub Stats
 
 <div>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=PIYoung&theme=apprentice&show_icons=true&hide=issues" alt="PIYoung's github stats" />
     </a>
@@ -30,13 +30,12 @@ const PIYoung = {
       <img width="330" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" /></a>
     </a>
   </p>
-  <p align="center">
+  <p align="left">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
     </a>
   </p>
 </div>
-
 
 <!-- ## 🏆 GitHub Trophies -->
 
