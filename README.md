@@ -11,7 +11,7 @@ const PIYoung = {
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux],
-    backEnd: [NestJS, Express],
+    backEnd: [NestJS, Express, Flask],
     devOps: [AWS],
     database: [MySQL, Redis, IndexedDB, MongoDB, SQLite]
   }
