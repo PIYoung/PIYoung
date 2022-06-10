@@ -32,8 +32,8 @@ const PIYoung = {
   </div>
   <br />
   <div>
-    <a href="#">
-      <img height="155" src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=dark&date_format=j%20M%5B%20Y%5D" />
+    <a href="https://git.io/streak-stats">
+      <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
     </a>
   </div>
 </div>
