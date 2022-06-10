@@ -52,3 +52,7 @@ const PIYoung = {
     <img align="center" src="http://mazandi.herokuapp.com/api?handle=dlsdudg15&theme=dark" alt="PIYoung's baekjoon stat" />
   </a>
 </p>
+
+## 🗂 My Personal History
+
+- 2018. 12 ~ 2019. 06: 
