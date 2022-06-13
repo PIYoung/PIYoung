@@ -5,7 +5,7 @@
 
 ```javascript
 const PIYoung = {
-  currentlyWorkingOn: 메타버스 아카데미,
+  currentlyWorkingOn: "메타버스 아카데미",
   currentlyLearning: ["Metaverse", "AI", "CG"],
   currentlyLearningSkills: [Tensorflow, Pytorch, Sklearn, Unity, ThreeJS],
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
