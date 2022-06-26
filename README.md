@@ -59,6 +59,7 @@ const PIYoung = {
 
 - 2022\. 05 ~  [메타버스 아카데미](https://mtvs.kr)
   - AI 1기
+  - 과학기술정보통신부 주관
 - 2019\. 09 ~  [한국방송통신대학교](https://www.knou.ac.kr)
   - 컴퓨터과학과
 
