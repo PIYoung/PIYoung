@@ -65,7 +65,7 @@ const PIYoung = {
 ### Done
 
 - 2021\. 03 ~ 2022. 04 Ablestor
-  - 솔루션 개발 연구원
+  - 자체 솔루션 [맘모스](https://mommoss.com) 개발 연구원
 - 2020\. 02 ~ 2021. 02 Cordial(SI)
   - 대외경제정책연구원
   - 정보통신정책연구원
