@@ -67,6 +67,7 @@ const PIYoung = {
 
 - 2021\. 03 ~ 2022. 04 [Ablestor](https://www.ablestor.com)
   - 자체 솔루션 [맘모스](https://mommoss.com) 개발 연구원
+  - [Happy Doctor](https://happydoctor.kr) FE Web 
 - 2020\. 02 ~ 2021. 02 [Cordial(SI)](https://www.cordial.co.kr)
   - 대외경제정책연구원
   - 정보통신정책연구원
