@@ -18,6 +18,8 @@ const PIYoung = {
 };
 ```
 
+[![Skills](https://widget.realdeveloper.pro/api/top?stack=TypeScript,JavaScript,Python)](https://github.com/PIYoung)
+
 ## 📊 GitHub Stats
 
 <div>
