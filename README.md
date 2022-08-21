@@ -68,11 +68,13 @@ const PIYoung = {
 ### Done
 
 - 2021\. 03 ~ 2022. 04 [Ablestor](https://www.ablestor.com)
-  - 자체 솔루션 [맘모스](https://mommoss.com) Web Full Stack 개발
-  - [Happy Doctor](https://happydoctor.kr) FE Web 개발 
-  - 기타 사내 솔루션 BE 개발
-  - Synology NAS LDAP API 개발 및 문서화
+  - 사내 솔루션 맘모스 Web FullStack(Electron<ReactJS>, NodeJS<express>) 개발
+  - postfix(smtp), dovecot(imap, pop3), aws route53(mommoss.com) 활용한 메일서버 구축
+  - 사내 솔루션 해바라기 BE(NestJS) 개발
+  - 행복한 의사회 원격 진료용 웹사이트([Happy Doctor](https://happydoctor.kr)) FE(ReactJS) 개발
+  - Reverse  engineering Synology NAS  LDAP API 및 문서화
   - 기술 블로그(Medium) 제작, [포스팅](https://medium.com/@ablestor2014/sessionstorage-%ED%83%AD-%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-b12087d30bff)
+
 - 2020\. 02 ~ 2021. 02 [Cordial(SI)](https://www.cordial.co.kr)
   - 사내 솔루션(GW) 전자문서관리(EDM) 고도화
   - 대외경제정책연구원, Legacy groupware vesion upgrade
