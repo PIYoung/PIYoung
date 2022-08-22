@@ -86,6 +86,7 @@ const PIYoung = {
   - 하이트진로, Smart office interface renewal
 - 2018\. 12 ~ 2019. 06 더조은컴퓨터아카데미
   - 빅데이터 활용 응용SW개발자
+  - 성적 우수 
 
 ## 📜 Certificate
   - 정보처리산업기사 (2022)
