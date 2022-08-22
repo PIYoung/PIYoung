@@ -57,7 +57,7 @@ const PIYoung = {
 
 ## 🗂 Personal History
 
-### In Progress
+### Education
 
 - 2022\. 05 ~  [메타버스 아카데미](https://mtvs.kr)
   - AI 1기
@@ -65,8 +65,11 @@ const PIYoung = {
   - [팀 프로젝트](https://github.com/Boram3J)
 - 2019\. 09 ~  [한국방송통신대학교](https://www.knou.ac.kr)
   - 컴퓨터과학과
+- 2018\. 12 ~ 2019. 06 더조은컴퓨터아카데미
+  - 빅데이터 활용 응용SW개발자
+  - 성적 우수 수료
 
-### Done
+### Career
 
 - 2021\. 03 ~ 2022. 04 [Ablestor](https://www.ablestor.com)
   - 사내 솔루션 맘모스 Web FullStack(Electron<ReactJS>, NodeJS<express>) 개발
@@ -84,9 +87,6 @@ const PIYoung = {
   - 부산관광공사, External e-mail ack recieve
   - 대신증권, Community 기능 추가 구축
   - 하이트진로, Smart office interface renewal
-- 2018\. 12 ~ 2019. 06 더조은컴퓨터아카데미
-  - 빅데이터 활용 응용SW개발자
-  - 성적 우수 수료
 
 ## 📜 Certificate
   - 정보처리산업기사 (2022)
