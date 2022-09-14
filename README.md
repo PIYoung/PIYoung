@@ -6,14 +6,14 @@
 ```javascript
 const PIYoung = {
   currentlyOn: "메타버스 아카데미",
-  currentlyLearning: ["Metaverse", "AI", "CG"],
+  currentlyLearning: ["Metaverse", "AI", "CG", "Network"],
   currentlyLearningSkills: [Tensorflow, Pytorch, Sklearn, Unity, ThreeJS],
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux],
-    backEnd: [NestJS, Express, Flask],
+    backEnd: [NestJS, Express, Flask, FastAPI],
     devOps: [AWS],
-    database: [MySQL, Redis, IndexedDB, MongoDB, SQLite]
+    database: [MySQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite]
   }
 };
 ```
