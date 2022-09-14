@@ -86,7 +86,6 @@ const PIYoung = {
   - Reverse  engineering Synology NAS  LDAP API 및 문서화
   - 기술 블로그(Medium) 제작, [포스팅](https://medium.com/@ablestor2014/sessionstorage-%ED%83%AD-%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-b12087d30bff)
   -->
-
 - 2020\. 02 ~ 2021. 02 [Cordial(SI)](https://www.cordial.co.kr)
   <!--
   - 사내 솔루션(GW) 전자문서관리(EDM) 고도화
