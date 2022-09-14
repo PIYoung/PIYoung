@@ -32,12 +32,12 @@ const PIYoung = {
       <img width="330" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" />     </a>
   </p -->
   <p align="left">
-    <a href="https://solved.ac/dlsdudg15">
-      <img height=195 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
-    </a>
-    &nbsp;
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
+    </a>
+    &nbsp;
+    <a href="https://solved.ac/dlsdudg15">
+      <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
     </a>
   </p>
 </div>
