@@ -33,11 +33,11 @@ const PIYoung = {
   </p -->
   <p align="left">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
+      <img height="160" src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
     </a>
     &nbsp;
     <a href="https://solved.ac/dlsdudg15">
-      <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
+      <img height="160" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
     </a>
   </p>
 </div>
