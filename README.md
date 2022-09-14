@@ -23,16 +23,19 @@ const PIYoung = {
 ## 📊 GitHub Stats
 
 <div>
-  <p align="left">
+  <!-- p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=PIYoung&theme=apprentice&show_icons=true&hide=issues" alt="PIYoung's github stats" />
     </a>
     &nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="330" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" /></a>
-    </a>
-  </p>
+      <img width="330" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYoung&layout=compact&theme=apprentice" />     </a>
+  </p -->
   <p align="left">
+    <a href="https://solved.ac/dlsdudg15">
+      <img height=195 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdudg15" alt="PIYoung's baekjoon stat" />
+    </a>
+    &nbsp;
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=PIYoung&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j" />
     </a>
@@ -43,6 +46,7 @@ const PIYoung = {
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=PIYoung&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<!--
 ## 💻 Baekjoon Algorithm
 
 <p>
@@ -54,6 +58,7 @@ const PIYoung = {
     <img align="center" src="http://mazandi.herokuapp.com/api?handle=dlsdudg15&theme=dark" alt="PIYoung's baekjoon stat" />
   </a>
 </p>
+-->
 
 ## 🗂 Personal History
 
@@ -65,10 +70,8 @@ const PIYoung = {
   - [팀 프로젝트](https://github.com/Boram3J)
 - 2019\. 09 ~  [한국방송통신대학교](https://www.knou.ac.kr)
   - 컴퓨터과학과
-  - 재학중(3학년)
 - 2018\. 12 ~ 2019. 06 더조은컴퓨터아카데미
   - 빅데이터 활용 응용SW개발자
-  - 성적 우수 수료
 
 ### Career
 
