@@ -65,9 +65,11 @@ const PIYoung = {
 ### Education
 
 - 2022\. 05 ~  [메타버스 아카데미](https://mtvs.kr)
-  - AI 1기
   - 과학기술정보통신부 주관
+<!--
+  - AI 1기
   - [팀 프로젝트](https://github.com/Boram3J)
+-->
 - 2019\. 09 ~  [한국방송통신대학교](https://www.knou.ac.kr)
   - 컴퓨터과학과
 - 2018\. 12 ~ 2019. 06 더조은컴퓨터아카데미
@@ -77,18 +79,24 @@ const PIYoung = {
 
 - 2021\. 03 ~ 2022. 04 [Ablestor](https://www.ablestor.com)
   - 사내 솔루션 맘모스 Web FullStack(Electron<ReactJS>, NodeJS<express>) 개발
+  <!--
   - postfix(smtp), dovecot(imap, pop3), aws route53(mommoss.com) 활용한 메일서버 구축
   - 사내 솔루션 해바라기 BE(NestJS) 개발
+  -->
   - 행복한 의사회 원격 진료용 웹사이트([Happy Doctor](https://happydoctor.kr)) FE(ReactJS) 개발
   - Reverse  engineering Synology NAS  LDAP API 및 문서화
   - 기술 블로그(Medium) 제작, [포스팅](https://medium.com/@ablestor2014/sessionstorage-%ED%83%AD-%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1-b12087d30bff)
 
 - 2020\. 02 ~ 2021. 02 [Cordial(SI)](https://www.cordial.co.kr)
+  <!--
   - 사내 솔루션(GW) 전자문서관리(EDM) 고도화
+  -->
   - 대외경제정책연구원, Legacy groupware vesion upgrade
   - 정보통신정책연구원, Legacy groupware renewal
+  <!--
   - 롯데카드, Mobile MDM supprot
   - 부산관광공사, External e-mail ack recieve
+  -->
   - 대신증권, Community 기능 추가 구축
   - 하이트진로, Smart office interface renewal
 
