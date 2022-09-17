@@ -98,5 +98,6 @@ const PIYoung = {
   -->
 
 ## 📜 Certificate
+  - ADsP (2022)
   - 정보처리산업기사 (2022)
   - TOEIC 870 (2016)
