@@ -2,7 +2,7 @@
 
 ```javascript
 const PIYoung = {
-  currentlyOn: "백수",
+  currentlyOn: null,
   currentlyLearning: ["Metaverse", "AI", "CG", "Blockchain", "NFT"],
   currentlyLearningSkills: [Tensorflow, Pytorch, Sklearn, Unity, ThreeJS, Solidity, Web3],
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
