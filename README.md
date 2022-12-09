@@ -3,8 +3,8 @@
 ```javascript
 const PIYoung = {
   currentlyOn: "메타버스 아카데미",
-  currentlyLearning: ["Metaverse", "AI", "CG", "Network"],
-  currentlyLearningSkills: [Tensorflow, Pytorch, Sklearn, Unity, ThreeJS],
+  currentlyLearning: ["Metaverse", "AI", "CG", "Blockchain", "NFT"],
+  currentlyLearningSkills: [Tensorflow, Pytorch, Sklearn, Unity, ThreeJS, Solidity, Web3],
   code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux],
