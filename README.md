@@ -3,7 +3,7 @@
 ```javascript
 const PIYoung = {
   currentlyOn: null,
-  currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Blockchain", "NFT", "Monorepo", "Metaverse", "AI", "CG"],
+  currentlyLearning: ["Cloud", "SaaS/AIaaS", "Blockchain", "NFT", "Monorepo", "Metaverse", "AI", "CG"],
   currentlyLearningSkills: [Kubernets, Jenkins],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
