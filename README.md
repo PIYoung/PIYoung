@@ -3,14 +3,16 @@
 ```javascript
 const PIYoung = {
   currentlyOn: null,
-  currentlyLearning: ["Metaverse", "AI", "CG", "Blockchain", "NFT"],
-  currentlyLearningSkills: [Tensorflow, Pytorch, Sklearn, Unity, ThreeJS, Solidity, Web3],
-  code: [Typescript, Javascript, Python, Java, HTML5, CSS3],
+  currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Blockchain", "NFT", "Monorepo", "Metaverse", "AI", "CG"],
+  currentlyLearningSkills: [Kubernets, Jenkins],
+  code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
-    frontEnd: [ReactJS, Redux],
-    backEnd: [NestJS, Express, Flask, FastAPI],
-    devOps: [AWS],
-    database: [MySQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite]
+    frontEnd: [ReactJS, Redux, ThreeJS, Unity],
+    backEnd: [NestJS, Express, Flask, FastAPI, Spring],
+    devOps: [AWS, Docker, Git],
+    database: [MySQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite],
+    ai: [Tensorflow, Pytorch, Sklearn],
+    blockchain: [Solidity, Web3]
   }
 };
 ```
