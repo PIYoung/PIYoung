@@ -10,7 +10,7 @@ const PIYoung = {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
     backEnd: [NestJS, Express, Flask, FastAPI, Spring],
     devOps: [AWS, Docker, Git],
-    database: [MySQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite],
+    database: [MySQL, PostgreSQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite],
     ai: [Tensorflow, Pytorch, Sklearn],
     blockchain: [Solidity, Web3]
   }
