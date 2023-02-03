@@ -3,13 +3,13 @@
 ```javascript
 const PIYoung = {
   currentlyOn: null,
-  currentlyLearning: ["Cloud", "SaaS/AIaaS", "Blockchain", "NFT", "Monorepo", "Metaverse"],
-  currentlyLearningSkills: [Kubernets, Jenkins],
+  currentlyLearning: ["Cloud", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Monorepo", "Metaverse"],
+  currentlyLearningSkills: [Kubernets],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
     backEnd: [NestJS, Express, Flask, FastAPI, Spring],
-    devOps: [AWS, Docker, Git, Jenkins],
+    devOps: [AWS, Docker, Git, Jenkins, IaC],
     database: [MySQL, PostgreSQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite],
     ai: [Tensorflow, Pytorch, Sklearn],
     blockchain: [Solidity, Web3],
