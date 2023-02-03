@@ -3,16 +3,17 @@
 ```javascript
 const PIYoung = {
   currentlyOn: null,
-  currentlyLearning: ["Cloud", "SaaS/AIaaS", "Blockchain", "NFT", "Monorepo", "Metaverse", "AI", "CG"],
+  currentlyLearning: ["Cloud", "SaaS/AIaaS", "Blockchain", "NFT", "Monorepo", "Metaverse"],
   currentlyLearningSkills: [Kubernets, Jenkins],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
     backEnd: [NestJS, Express, Flask, FastAPI, Spring],
-    devOps: [AWS, Docker, Git],
+    devOps: [AWS, Docker, Git, Jenkins],
     database: [MySQL, PostgreSQL, MariaDB, Redis, IndexedDB, MongoDB, SQLite],
     ai: [Tensorflow, Pytorch, Sklearn],
-    blockchain: [Solidity, Web3]
+    blockchain: [Solidity, Web3],
+    test: [Jest]
   }
 };
 ```
