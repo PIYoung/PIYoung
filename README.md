@@ -4,7 +4,7 @@
 const PIYoung = {
   currentlyOn: null,
   currentlyLearning: ["Cloud", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Monorepo", "Metaverse"],
-  currentlyLearningSkills: [Kubernets, "Flutter/Dart", "Phoenix/Elixir"],
+  currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
