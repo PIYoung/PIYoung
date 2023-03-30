@@ -20,7 +20,7 @@ const PIYoung = {
 
 ***taking worst choice after agony.***
 
-***it is good sometimes.***
+***it's very hard to take but can help someday.***
 
 <!-- Comment
 
