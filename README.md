@@ -22,7 +22,7 @@ const PIYoung = {
 
 ***it's very hard to take but can help someday.***
 
-***ethereum 100k***
+***ethereum 100k.***
 
 <!-- Comment
 
