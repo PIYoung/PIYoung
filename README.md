@@ -16,8 +16,6 @@ const PIYoung = {
     test: [Jest]
   }
 };
-
-PIYoung.status = "일 싫어, 공부 싫어, 운동 싫어";
 ```
 
 <!-- 
