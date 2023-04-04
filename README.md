@@ -1,4 +1,4 @@
-# Happy & Relief 😊
+# Super Happy 😊
 
 ```javascript
 const PIYoung = {
@@ -17,12 +17,6 @@ const PIYoung = {
   }
 };
 ```
-
-***taking worst choice after agony.***
-
-***it's very hard to take but can help someday.***
-
-~~***ethereum 100k.***~~
 
 <!-- Comment
 
