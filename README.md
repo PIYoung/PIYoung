@@ -2,7 +2,7 @@
 
 ```javascript
 const PIYoung = {
-  currentlyOn: ARIA-Edge,
+  currentlyOn: "ARIA-Edge",
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
   currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
