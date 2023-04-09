@@ -1,4 +1,6 @@
-# Super Happy 😊
+# Inner peace 😊
+
+***Being better tommorrow, enjoy your job and keep trying.***
 
 ```javascript
 const PIYoung = {
