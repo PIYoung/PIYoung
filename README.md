@@ -1,4 +1,4 @@
-# Inner peace 😊
+# Emotional developer. 🥲
 
 ***Being better tommorrow, enjoy your job and keep trying.***
 
