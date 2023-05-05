@@ -1,5 +1,7 @@
 # Emotional developer. 🥲
 
+게으른 남자
+
 ***Being better tommorrow, enjoy your job and keep trying.***
 
 ```javascript
