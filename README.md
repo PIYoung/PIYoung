@@ -1,6 +1,4 @@
-# 의존은 중독이지만 도움이 된다. 👍
-
-프로그래밍 세계에서 순환의존관계는 안티 패턴 중 하나로서 인식되지만, 현실 세계에서 순환의존관계는 서로에게 좋은 영향을 준다.
+# Sort of funny chap. 😁
 
 ***Being better tommorrow, enjoy your job and keep trying.***
 
