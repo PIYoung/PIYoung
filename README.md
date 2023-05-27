@@ -1,4 +1,4 @@
-# Sort of funny chap. 😁
+# Organize anything. 🗂️
 
 ***Being better tommorrow, enjoy your job and keep trying.***
 
@@ -7,6 +7,7 @@ const PIYoung = {
   currentlyOn: null,
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
   currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
+  currentlyInterests: ["Organizing"],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
