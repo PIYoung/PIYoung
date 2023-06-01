@@ -1,8 +1,8 @@
 # Organize anything. 🗂️
 
-***Being better tommorrow, enjoy your job and keep trying.***
+***Being better tommorrow, enjoy your job and keep trying. 💪***
 
-***More caffeine ☕️.***
+***More caffeine. ☕️***
 
 ***Polish codes periodically. 🧹***
 
