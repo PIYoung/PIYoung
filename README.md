@@ -11,7 +11,7 @@ const PIYoung = {
   currentlyOn: null,
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
   currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
-  currentlyInterests: ["Organizing"],
+  currentlyInterests: ["Organizing", "DAO", "MSA", "Distributed System"],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
