@@ -6,12 +6,14 @@
 
 ***Polish codes periodically. 🧹***
 
+***Right way to trainsition from legacy to modern system. 🤔***
+
 ```javascript
 const PIYoung = {
   currentlyOn: null,
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
   currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
-  currentlyInterests: ["Organizing", "DAO", "MSA", "Distributed System"],
+  currentlyInterests: ["Organizing", "DAO", "MSA", "Distributed System", "Reverse engineering", "Refactoring"],
   code: [Typescript, Javascript, Python, Solidity, Java, C#, HTML5, CSS3],
   technologies: {
     frontEnd: [ReactJS, Redux, ThreeJS, Unity],
