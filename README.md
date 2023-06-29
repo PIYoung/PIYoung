@@ -10,6 +10,7 @@
 
 ```javascript
 const PIYoung = {
+  currentlyOn: "Seerslab",
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
   currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
   currentlyInterests: ["Organizing", "DAO", "MSA", "Distributed System", "Reverse engineering", "Refactoring"],
@@ -50,7 +51,7 @@ const PIYoung = {
   - AI 1기
   - 과학기술정보통신부 주관
   - 🏆 최종 성과공유회 장려상(한국전파진흥협회장)
-- 2019\. 09 ~  [한국방송통신대학교](https://www.knou.ac.kr)
+- 2019\. 09 ~ 2024. 02 [한국방송통신대학교](https://www.knou.ac.kr)
   - 컴퓨터과학과
 - 2018\. 12 ~ 2019. 06 더조은컴퓨터아카데미
   - 빅데이터 활용 응용SW개발자
@@ -58,12 +59,15 @@ const PIYoung = {
 
 ### Career
 
+- 2023\. 07 ~ ing [Seerslab]
+- 2022\. 12 ~ 2023. 06 [Aria-Edge] -> M&A with Seerslab
 - 2021\. 03 ~ 2022. 04 [Ablestor](https://www.ablestor.com)
 - 2020\. 02 ~ 2021. 02 [Cordial](https://www.cordial.co.kr)
 
 ## 📜 Certificate
+  - 빅데이터분석기사 (2023)
+  - 정보처리기사 (2023)
   - ADsP (2022)
-  - 정보처리산업기사 (2022)
   - TOEIC 870 (2016)
 
 -->
