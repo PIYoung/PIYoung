@@ -1,14 +1,14 @@
 # Manners, Maketh, Man. 🧘
 
-***Being better tommorrow, enjoy your job and keep trying. 💪***
+***Being better tommorrow, enjoy your job and keep trying.*** 💪
 
-***More caffeine. ☕️***
+***More caffeine.*** ☕️
 
-***Polish codes periodically. 🧹***
+***Polish codes periodically.*** 🧹
 
-***Right way to trainsition from legacy to modern system. 🤔***
+***Right way to trainsition from legacy to modern system.*** 🤔
 
-***일 못하는 상사 때문에 성격 파탄날 것 같아. 😁***
+***일 못하는 상사 때문에 성격 파탄날 것 같아.*** 😁
 
 ```javascript
 const PIYoung = {
