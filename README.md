@@ -8,8 +8,6 @@
 
 ***Right way to trainsition from legacy to modern system.*** 🤔
 
-***일 못하는 상사 때문에 성격 파탄날 것 같아.*** 😁
-
 ```javascript
 const PIYoung = {
   currentlyOn: null,
