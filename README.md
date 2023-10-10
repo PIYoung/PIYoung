@@ -10,7 +10,6 @@
 
 ```javascript
 const PIYoung = {
-  currentlyOn: null,
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
   currentlyLearningSkills: [Kubernetes, "Flutter/Dart", "Phoenix/Elixir"],
   currentlyInterests: ["Organizing", "DAO", "MSA", "Distributed System", "Reverse engineering", "Refactoring"],
