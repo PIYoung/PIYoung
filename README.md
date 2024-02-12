@@ -1,7 +1,5 @@
 # Manners, Maketh, Man. 🧘
 
-***SI는 너무 힘들어*** 😥
-
 ***Software components should be open for extension but closed for modification.*** 🤓
 
 ***Being better tommorrow, enjoy your job and keep trying.*** 💪
