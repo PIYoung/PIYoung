@@ -2,13 +2,9 @@
 
 ***Software components should be open for extension but closed for modification.*** 🤓
 
-***Being better tommorrow, enjoy your job and keep trying.*** 💪
-
 ***More caffeine.*** ☕️
 
 ***Polish codes periodically.*** 🧹
-
-***Right way to trainsition from legacy to modern system.*** 🤔
 
 ```javascript
 const PIYoung = {
