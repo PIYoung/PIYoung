@@ -1,4 +1,4 @@
-# 자신의 등은 볼 수 없으니까 부끄러워말고 다른 사람에게 물어보는 것이 좋다 🫠
+# 자신의 등은 볼 수 없으니까 부끄러워말고 다른 사람에게 물어봐. 🫠
 
 ***Software components should be open for extension but closed for modification.*** 🤓
 
