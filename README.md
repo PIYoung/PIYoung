@@ -6,7 +6,7 @@
 
 ***Polish codes periodically.*** 🧹
 
-***Don't be alone.*** 😇
+***Never be alone.*** 😇
 
 ```javascript
 const PIYoung = {
