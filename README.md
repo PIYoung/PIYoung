@@ -6,8 +6,6 @@
 
 ***Polish codes periodically.*** 🧹
 
-***Never be alone.*** 😇
-
 ```javascript
 const PIYoung = {
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
