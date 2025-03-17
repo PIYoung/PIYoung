@@ -8,6 +8,8 @@
 
 ***[We Open the Next.](https://apps.apple.com/kr/app/id1470181651)*** 👍
 
+***허리 디스크 한 번 걸리면 인생 망한다.*** 😭
+
 ```javascript
 const PIYoung = {
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
