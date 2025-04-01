@@ -8,6 +8,8 @@
 
 ***[We Open the Next.](https://apps.apple.com/kr/app/id1470181651)*** 👍
 
+***친절, 감사, 봉사 그리고 배려***
+
 ```javascript
 const PIYoung = {
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
