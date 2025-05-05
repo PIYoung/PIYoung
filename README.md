@@ -10,8 +10,6 @@
 
 ***친절, 감사, 봉사 그리고 배려*** ❤️
 
-***맥락상 명확하게 구분되는 서로 다른 두 인터페이스의 구현체가 완벽하게 일치할 때, 그럼에도 불구하고 중복을 허용해야할까?*** 🍺
-
 ```javascript
 const PIYoung = {
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
