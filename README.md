@@ -10,8 +10,6 @@
 
 ***친절, 감사, 봉사 그리고 배려*** ❤️
 
-***あのままの二人でいようよ.*** 💕
-
 ```javascript
 const PIYoung = {
   currentlyLearning: ["Cloud Service", "SaaS/AIaaS", "Service Mesh", "Blockchain", "NFT", "Metaverse"],
