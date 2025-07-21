@@ -1,4 +1,4 @@
-# (*3R)Real Recognize Real. 🥲
+# (*3R)Real Recognize Real. ⭐️
 
 ***Software components should be open for extension but closed for modification.*** 🤓
 
